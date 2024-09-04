@@ -27,6 +27,7 @@
 .card__descrição {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 0.5em;
 }
 
 .card__botões{
@@ -60,5 +61,9 @@
   
  .descrição__texto {
     font-size: 14px;
+  }
+
+  .botões__itens{
+    margin: 0 0.5em;
   }
   
