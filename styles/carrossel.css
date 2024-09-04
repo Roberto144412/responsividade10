@@ -55,5 +55,10 @@
     color: var(--azul);
     font-size: 18px;
     font-weight: 700px;
+    margin: 0 0.5em;
  }
+  
+ .descrição__texto {
+    font-size: 14px;
+  }
   
